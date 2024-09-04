@@ -19,3 +19,4 @@ https://zealdocs.org/ <br>
 koala<br>
 !12.публикация сайта<br>
 13. Дополнительные задание(адаптив, диаграммы, руководство)
+https://docs.google.com/presentation/d/1kdJnbmamVEqPRBSbDyk4zWtm1h6kCBt5/edit#slide=id.p29
