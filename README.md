@@ -45,3 +45,10 @@ chmod -R 777 htdocs/<br>
 добавляем секретный ключ в файл<br>
 config/web.php<br>
 
+![image](https://github.com/user-attachments/assets/6e677eb6-48e6-4db5-a44a-1f111ba2824a)
+![image](https://github.com/user-attachments/assets/8829875a-732f-4ec7-81d0-e54f15f77867)
+![image](https://github.com/user-attachments/assets/36a4afea-6c3a-4c5a-899c-aaa0521555d3)
+![image](https://github.com/user-attachments/assets/542d5ac7-a4ba-4464-80f3-a9f8159139c1)
+
+
+
